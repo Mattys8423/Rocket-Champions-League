@@ -20,7 +20,7 @@ In this game, players control agile characters in a football field, aiming to hi
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/rocket-champion-league.git
+   git clone https://github.com/yourusername/rocket-champion-league.git
     ```
 2. **Open the project in Unity**.
 3. **Build and run** the game to start playing.
