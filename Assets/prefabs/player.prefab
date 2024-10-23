@@ -122,6 +122,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 0
+  minmovementSpeed: 0
+  maxmovementSpeed: 0
+  angular_speed: 0
+  Jetpack_Force: 0
+  min_Jetpack_Force: 0
+  max_Jetpack_Force: 0
+  Player_Start: {fileID: 0}
+  slider: {fileID: 0}
+  player: 0
 --- !u!1 &5322185610556992299
 GameObject:
   m_ObjectHideFlags: 0

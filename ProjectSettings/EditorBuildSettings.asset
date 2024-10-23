@@ -9,6 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: a2c1986acceb21349b80f5a714dca1b6
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Play.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Blue_wins.unity
+    guid: 29350c0faafb68346b428e4b4491c36c
+  - enabled: 1
+    path: Assets/Scenes/Red_wins.unity
+    guid: 129496bdb490cd546ae66a4ca3f5e4b3
+  - enabled: 1
+    path: Assets/Scenes/Tie.unity
+    guid: afc3e07fc93375b4184378ff3faa5234
+  - enabled: 1
+    path: Assets/Scenes/Pause.unity
+    guid: 3b075b3db31cffc43829457d93d58408
   m_configObjects: {}
